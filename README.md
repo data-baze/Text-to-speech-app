@@ -1,2 +1,2 @@
 # Text-to-speech-app
-The web that takes user input, processes it to identify language and tone, uses speech synthesis algorithms to generate natural-sounding speech, delivers it to the user through various channels, includes quality assurance mechanisms, and integrates with other systems or applications.
+The proposed system is a text-to-speech (TTS) system that will receive text input from a user and convert it into natural-sounding speech output. The system will use advanced algorithms to analyze the input text and generate speech that accurately conveys its intended meaning. 
